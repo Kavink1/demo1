@@ -5,6 +5,7 @@ public class Demo {
 		String a="18";
 		int d = Integer.parseInt(a);
 		System.out.println(d);
+		//hello how are you
 	}
 }
 
